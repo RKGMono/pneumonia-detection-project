@@ -17,10 +17,10 @@ This project uses a convolutional neural network (CNN) to detect pneumonia from 
 
 ## 📁 Files Included
 - `Final_Project_DeepLearning_RKG.ipynb`: Full notebook with code, outputs, and explanations
-- `pneumonia_model_35.keras`: Trained model
+- `pneumonia_model_35.keras`: Trained model (Git hub now allowin > 25 MB) and I did not able to upload 
 - `history_18_epoch.pkl`: Training history for plotting
 - `gradcam_audit/`: Grad-CAM overlays for NORMAL and PNEUMONIA
-- `presentation.pdf`: Final presentation slides
+- `presentation.pdf`: Pneumonia_Detection_Presentation_RKG.pdf
 
 ---
 
